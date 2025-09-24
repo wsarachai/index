@@ -1,127 +1,26 @@
-# Hi, I’m Mr.Watcharin Sarachai
-Welcome — I'm a instructor and researcher based in Chiangmai, Thailand. I build things that solve real problems and enjoy learning new technologies along the way.
+<h1 align="center">Hi, I'm Dr.Watcharin Sarachai</h1>
+<h3 align="center">A dedicated professor of Information Technology from Thailand, Professor in charge of the Information Technology Program.</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wsarachai&label=Profile%20views&color=0e75b6&style=flat" alt="wsarachai" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wsarachai" alt="wsarachai" /></a> </p>
 
-- 🔭 I’m currently: working on Maejo University teaching on technology about building a full-stack web devlopment platform.
-- 💼 Role: Instructor and Researcher
-- 📍 Location: Chiangmai, Thailand
-- 🧩 Short bio: [A one- or two-sentence summary about you and your interests — e.g., "I enjoy building scalable web apps, crafting clean APIs, and exploring data-driven solutions."]
+<p align="left"> <a href="https://twitter.com/sarachai" target="blank"><img src="https://img.shields.io/twitter/follow/sarachai?logo=twitter&style=for-the-badge" alt="sarachai" /></a> </p>
 
-Connect with me:
+- 📫 Email **watcharin_s@mju.ac.th**
 
-[![LinkedIn][linkedin-shield]][linkedin] [![Twitter][twitter-shield]][twitter] [![Website][website-shield]][website]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sarachai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarachai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/watcharin-sarachai-223b0a8a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/watcharin-sarachai-223b0a8a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/wsarachai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wsarachai" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsarachai&show_icons=true&locale=en&layout=compact" alt="wsarachai" /></p>
 
-A concise list of technologies I use frequently. Replace badges and items to match your real skillset.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wsarachai&show_icons=true&locale=en" alt="wsarachai" /></p>
 
-- Languages: ![Python][python-badge] ![JavaScript][js-badge] ![TypeScript][ts-badge] ![Go][go-badge]
-- Frontend: ![React][react-badge] ![Vue][vue-badge] ![HTML5][html-badge] ![CSS3][css-badge]
-- Backend & Cloud: ![Node.js][node-badge] ![Django][django-badge] ![FastAPI][fastapi-badge] ![AWS][aws-badge] ![Docker][docker-badge]
-- Data & Tools: ![PostgreSQL][postgres-badge] ![Redis][redis-badge] ![Git][git-badge] ![Linux][linux-badge]
-
-(Remove or replace badges you don't need.)
-
----
-
-## GitHub Stats
-
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username in the image URLs below.
-
-- GitHub stats card (contributions, stars, followers):  
-	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight)
-
-- Top languages card:  
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight)
-
-Tip: See https://github.com/anuraghazra/github-readme-stats for options (themes, hide_border, include_all_commits, etc.).
-
----
-
-## Selected Projects
-
-Here are a few highlights — replace these with your actual projects and links.
-
-### Project One — [project-one-name]
-- Description: A one-line summary of what the project does and the problem it solves.
-- Tech: React, Node.js, PostgreSQL
-- Repo / Live: [GitHub](https://github.com/YOUR_GITHUB_USERNAME/project-one) • [Live](https://project-one.example.com)
-
-### Project Two — [project-two-name]
-- Description: Brief summary and key feature.
-- Tech: Python, FastAPI, Docker
-- Repo: [GitHub](https://github.com/YOUR_GITHUB_USERNAME/project-two)
-
-### Project Three — [project-three-name]
-- Description: What it does and why you built it.
-- Tech: TypeScript, Next.js, Vercel
-- Repo: [GitHub](https://github.com/YOUR_GITHUB_USERNAME/project-three)
-
-(Add a "See more" link if you have a portfolio or more pinned repos.)
-
----
-
-## Contact
-
-I’m open to collaborating on interesting projects and opportunities. Feel free to reach out!
-
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn][linkedin]
-- Twitter: [@yourhandle][twitter]
-- Website / Portfolio: [your-website][website]
-
-If you'd like to chat about a project or role, send me a message — I’ll try to reply within a few days.
-
----
-
-## Fun fact & Favorite quote
-
-- Fun fact: [A small personal/fun detail — e.g., "I’ve visited 15 countries" or "I brew my own coffee"]
-- Quote: "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
----
-
-Made with ❤️ — thanks for visiting!
-
----
-
-<!-- Customization notes: -->
-- Replace placeholders like [Your Name], [Your Job Title], [Your City/Country], [your-email@example.com], and YOUR_GITHUB_USERNAME.
-- Remove shields/badges you don't want and add new ones for other skills.
-- For GitHub stats cards, see: https://github.com/anuraghazra/github-readme-stats
-
-<!-- Shields / badge reference links (edit these to match your info) -->
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white
-[website-shield]: https://img.shields.io/badge/Website-%23007ACC.svg?style=for-the-badge&logo=google-chrome&logoColor=white
-
-[linkedin]: https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE
-[twitter]: https://twitter.com/YOUR_TWITTER_HANDLE
-[website]: https://your-website.example.com
-
-[python-badge]: https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white
-[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-[ts-badge]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-[go-badge]: https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white
-
-[react-badge]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-[vue-badge]: https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D
-[html-badge]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-[css-badge]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-
-[node-badge]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-[django-badge]: https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white
-[fastapi-badge]: https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
-[aws-badge]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
-[docker-badge]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-
-[postgres-badge]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
-[redis-badge]: https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
-[git-badge]: https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-[linux-badge]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsarachai&" alt="wsarachai" /></p>
